@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/mapa.unity
+- path: Assets/Mapa de Nympho.unity
   isLoaded: 1
   isActive: 1
